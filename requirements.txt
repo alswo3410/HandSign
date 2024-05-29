@@ -9,7 +9,6 @@ charset-normalizer==3.3.2
 click==8.1.7
 contourpy==1.2.1
 cycler==0.12.1
-debugpy @ file:///D:/bld/debugpy_1707444604970/work
 Flask==3.0.3
 flatbuffers==24.3.25
 fonttools==4.51.0
@@ -22,8 +21,6 @@ h5py==3.11.0
 idna==3.7
 imageio==2.34.0
 importlib_resources==6.4.0
-ipykernel @ file:///D:/bld/ipykernel_1708996677248/work
-ipython @ file:///D:/bld/ipython_1701831845989/work
 itsdangerous==2.2.0
 jax==0.4.26
 Jinja2==3.1.4
@@ -47,7 +44,6 @@ opt-einsum==3.3.0
 optree==0.11.0
 pillow==10.3.0
 protobuf==3.20.3
-psutil @ file:///D:/bld/psutil_1705722541723/work
 pyasn1==0.6.0
 pyasn1_modules==0.4.0
 pycparser==2.22
@@ -71,7 +67,6 @@ tensorflow-intel==2.12.0
 tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.4.0
 threadpoolctl==3.4.0
-tornado @ file:///D:/bld/tornado_1708363257374/work
 urllib3==2.2.1
 Werkzeug==3.0.2
 wrapt==1.14.1
