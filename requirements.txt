@@ -1,5 +1,4 @@
 absl-py==2.1.0
-asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_1698341106958/work
 astunparse==1.6.3
 attrs==23.2.0
 blinker==1.8.2
