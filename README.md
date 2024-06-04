@@ -36,6 +36,5 @@
 6.cmd에서 ipconfig로 호스트주소와 포트번호 확인  
 7.app.py 호스트주소 수정  
 
-# [4] Acknowledgement
 
 
